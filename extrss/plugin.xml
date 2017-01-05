@@ -25,7 +25,3 @@
         <lang name="russian">Расширяет возможности RSS</lang>
     </description>
 </plugin>
-<!--
-	0.0.1 - rss?show=all - выводит всё
-	0.0.2 - вывод дополнительных полей в rss
--->
